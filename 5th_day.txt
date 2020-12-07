@@ -1,3 +1,3 @@
-5th Dec
-The function of good software is to make the complex appear to be simple.
-Grady Booch
+day: 5th Dec
+quote: The function of good software is to make the complex appear to be simple.
+author: Grady Booch
