@@ -1,3 +1,3 @@
-13th Dec
-I call it my billion-dollar mistake. It was the invention of the null reference in 1965.
-Tony Hoare
+day: 13th Dec
+quote: I call it my billion-dollar mistake. It was the invention of the null reference in 1965.
+author: Tony Hoare

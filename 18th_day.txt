@@ -1,3 +1,3 @@
-18th Dec
-Simplicity is about subtracting the obvious and adding the meaningful.
-John Maeda
+day: 18th Dec
+quote: Simplicity is about subtracting the obvious and adding the meaningful.
+author: John Maeda
