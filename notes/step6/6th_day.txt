@@ -1,0 +1,3 @@
+day: 6th Dec
+quote: The art of programming is the art of organizing complexity.
+author: Edsger Dijkstra
