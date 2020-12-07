@@ -23,10 +23,9 @@ As a trainer prepare the repository. You will find some dummy files and the READ
 ```
 git checkout -b release/2020
 git push -u origin release/2020
-
 ```
 
-Then add restriction rules to all branches matching `release/`.
+Then add restriction rules to all branches matching `release/*`.
 
 ## step 1
 The participants should build the first set of cards for the advent calender. For each day a seperate file is created. The naming convention for cards is: "ordinalnumber_day.txt" i.e. 1st_day.txt, 2nd_day.txt, ...
