@@ -27,6 +27,6 @@ The file contains 3 lines:
 ## example 1st_day.txt
 `
 1
-bal bal
+I'm not a great programmer. I'm just a good programmer with great habits.
 Kent Beck
 `
