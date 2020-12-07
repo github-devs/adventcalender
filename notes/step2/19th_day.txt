@@ -1,3 +1,0 @@
-19 Dec
-I find that writing unit tests actually increases my programming speed.
-Martin Fowler
