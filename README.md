@@ -56,3 +56,51 @@ Kent Beck
 ```
 
 They will face a merge conflict when merging their PR.
+
+## step 4
+After merging the trainer changes into their files the content should be like this example.
+
+```
+1st Dec
+I'm not a great programmer. I'm just a good programmer with great habits.
+Kent Beck
+```
+
+## step 5
+We have released `release/2020` to production. We start with the development of the advent calender 2021. Therefore a new branch `release/2021` is created. In 2021 we want to privide different type of quotes in the calender. We have multiple directories for each type. The current quote are moved to a `software` directory. The participants will create new entries with general quotes and store them in a seperate `life` folder.
+
+## step 6
+We need a hotfix in production. During an update of the application the format was changed to YAML. 
+```
+day: 1st Dec
+quote: I'm not a great programmer. I'm just a good programmer with great habits.
+author: Kent Beck
+```
+
+The corrected files are stored in the `notes/step6` folder.
+```
+git checkout trainer_notes
+mkdir ../temp
+cp notes/step6/* ../temp
+git checkout release/2020
+cp ../temp/* .
+./git_actions
+```
+
+## step 7
+We need another hotfix in production. There is a bug rendering the current year. We need to add the current year to the day line.
+```
+day: 1st Dec 2020
+quote: I'm not a great programmer. I'm just a good programmer with great habits.
+author: Kent Beck
+```
+
+The corrected files are stored in the `notes/step6` folder.
+```
+git checkout trainer_notes
+mkdir ../temp
+cp notes/step7/* ../temp
+git checkout release/2020
+cp ../temp/* .
+./git_actions
+```
