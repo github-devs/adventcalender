@@ -67,10 +67,10 @@ I'm not a great programmer. I'm just a good programmer with great habits.
 Kent Beck
 ```
 
-They will face a merge conflict when merging their PR.
+Due to step3 they will face a merge conflict when merging their PR.
 
 ## step 4
-After merging the trainer changes into their files the content should be like this example.
+After merging their files the content should look like this example.
 
 ```
 1st Dec
@@ -80,6 +80,19 @@ Kent Beck
 
 ## step 5
 We have released `release/2020` to production. We start with the development of the advent calender 2021. Therefore a new branch `release/2021` is created. In 2021 we want to privide different type of quotes in the calender. We have multiple directories for each type. The current quote are moved to a `software` directory. The participants will create new entries with general quotes and store them in a seperate `life` folder.
+
+```
+git checkout release/2020
+git pull
+git checkout -b release/2021
+git push -u origin release/2021
+
+git checkout -b new_release
+mkdir software
+mv *.txt software
+git add *
+git commit -m "new folder structure for 2021"
+```
 
 ## step 6
 We need a hotfix in production. During an update of the application the format was changed to YAML. 
