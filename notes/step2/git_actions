@@ -1,17 +1,11 @@
 #!/bin/bash
 
-# git checkout trainer_notes
-# mkdir ../temp
-# cp notes/step2/* ../temp
-# git checkout release/2020
-# cp ../temp/* .
-
 git checkout -b step2_feature
 
 for f in *.txt
    do 
       git add ${f}
-      git commit -m "step 2 bulk change (done by trainer) - formated all dates"
+      git commit -m "step 2 change (done by trainer) - bulk change for merge conflicts"
    done
 
 git push -u origin step2_feature

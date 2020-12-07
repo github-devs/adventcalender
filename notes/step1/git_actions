@@ -1,7 +1,5 @@
 #!/bin/bash
 
-git checkout trainer_notes
-cp notes/step1/* .
 git checkout -b step1_feature
 
 for f in *.txt

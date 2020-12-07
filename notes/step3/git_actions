@@ -1,0 +1,11 @@
+#!/bin/bash
+
+git checkout -b step3_feature
+
+for f in *.txt
+   do 
+      git add ${f}
+      git commit -m "step 3 change (done by participants) - change date format"
+   done
+
+git push -u origin step3_feature
