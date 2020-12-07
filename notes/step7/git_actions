@@ -1,0 +1,11 @@
+#!/bin/bash
+
+git checkout -b hotfix2
+
+for f in *.txt
+   do 
+      git add ${f}
+      git commit -m "hotfix2 change (done by trainer) - new date format for ${f}"
+   done
+
+git push -u origin hotfix2

@@ -1,0 +1,11 @@
+#!/bin/bash
+
+git checkout -b hotfix1
+
+for f in *.txt
+   do 
+      git add ${f}
+      git commit -m "hotfix1 change (done by trainer) - YAML ${f}"
+   done
+
+git push -u origin hotfix1
