@@ -1,0 +1,3 @@
+21st
+Don't document bad code - rewrite it.
+Brian Kernighan
