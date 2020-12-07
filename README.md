@@ -95,7 +95,7 @@ quote: I'm not a great programmer. I'm just a good programmer with great habits.
 author: Kent Beck
 ```
 
-The corrected files are stored in the `notes/step6` folder.
+The corrected files are stored in the `notes/step7` folder.
 ```
 git checkout trainer_notes
 mkdir ../temp
