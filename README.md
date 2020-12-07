@@ -25,8 +25,8 @@ The file contains 3 lines:
 - author
 
 ## example 1st_day.txt
-`
+```
 1
 I'm not a great programmer. I'm just a good programmer with great habits.
 Kent Beck
-`
+```
