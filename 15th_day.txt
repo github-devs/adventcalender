@@ -1,3 +1,3 @@
-15th Dec
-The most fundamental problem in software development is complexity. There is only one basic way of dealing with complexity: divide and conquer.
-Bjarne Stroustrup
+day: 15th Dec 2020
+quote: The most fundamental problem in software development is complexity. There is only one basic way of dealing with complexity: divide and conquer.
+author: Bjarne Stroustrup
