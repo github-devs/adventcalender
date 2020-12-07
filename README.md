@@ -16,6 +16,18 @@ Our default workflow is
 * find a collegue to approve your PR
 * merge the PR into `release/2020` and delete the feature branch
 
+
+## step 0
+As a trainer prepare the repository. You will find some dummy files and the README in the `main` branch. Create the `release/2020` branch on the command line and push it to the repo.
+
+```
+git checkout -b release/2020
+git push -u origin release/2020
+
+```
+
+Then add restriction rules to all branches matching `release/`.
+
 ## step 1
 The participants should build the first set of cards for the advent calender. For each day a seperate file is created. The naming convention for cards is: "ordinalnumber_day.txt" i.e. 1st_day.txt, 2nd_day.txt, ...
 
