@@ -1,0 +1,13 @@
+#!/bin/bash
+
+git checkout trainer_notes
+cp notes/step1/* .
+git checkout -b step1_feature
+
+for f in *.txt
+   do 
+      git add ${f}
+      git commit -m "step 1 change (done by participants) - create initial files"
+   done
+
+git push -u origin step1_feature

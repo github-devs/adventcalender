@@ -1,0 +1,12 @@
+#!/bin/bash
+
+git checkout release/2020
+git checkout -b step2_feature
+
+for f in *.txt
+   do 
+      git add ${f}
+      git commit -m "step 2 bulk change (done by trainer) - formated all dates"
+   done
+
+git push -u origin step2_feature
