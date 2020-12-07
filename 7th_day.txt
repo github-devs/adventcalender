@@ -1,3 +1,3 @@
-7th Dec
-A fool with a tool is still a fool.
-Grady Booch
+day: 7th Dec
+quote: A fool with a tool is still a fool.
+author: Grady Booch
