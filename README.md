@@ -49,6 +49,7 @@ git checkout trainer_notes
 mkdir ../temp
 cp notes/step2/* ../temp
 git checkout release/2020
+git pull
 cp ../temp/* .
 ./git_actions
 ```
@@ -94,6 +95,7 @@ git checkout trainer_notes
 mkdir ../temp
 cp notes/step6/* ../temp
 git checkout release/2020
+git pull
 cp ../temp/* .
 ./git_actions
 ```
@@ -112,6 +114,7 @@ git checkout trainer_notes
 mkdir ../temp
 cp notes/step7/* ../temp
 git checkout release/2020
+git pull
 cp ../temp/* .
 ./git_actions
 ```
