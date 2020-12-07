@@ -30,3 +30,17 @@ The file contains 3 lines:
 I'm not a great programmer. I'm just a good programmer with great habits.
 Kent Beck
 ```
+
+## step 2
+The trainer changes all files to a new format, so there is merge conflict when the participants commit their next changes. The files are stored in the `notes/step2` folder.
+
+```
+```
+
+
+## example 1st_day.txt
+```
+1 Dec
+I'm not a great programmer. I'm just a good programmer with great habits.
+Kent Beck
+```
