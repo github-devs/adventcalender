@@ -24,7 +24,6 @@ The file contains 3 lines:
 - quote
 - author
 
-## example 1st_day.txt
 ```
 1
 I'm not a great programmer. I'm just a good programmer with great habits.
@@ -43,5 +42,17 @@ cp ../temp/* .
 ./git_actions
 ```
 
-Then create a PR and merge it into `release/2020`. *Wait unitl the participants started their tasks!*
+Then create a PR and merge it into `release/2020`. 
 
+**Wait unitl the participants started their tasks!**
+
+## step 3
+The participants receive a new user story. In this story the need to adapt the current content to a new format.
+
+```
+1st
+I'm not a great programmer. I'm just a good programmer with great habits.
+Kent Beck
+```
+
+They will face a merge conflict when merging their PR.
