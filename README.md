@@ -17,4 +17,16 @@ Our default workflow is
 * merge the PR into release/2020 and delete the feature branch
 
 ## step 1
-The participants should build the first set of cards for the advent calender. For each day a seperate file is created. The naming convention for cards is: 
+The participants should build the first set of cards for the advent calender. For each day a seperate file is created. The naming convention for cards is: "ordinalnumber_day.txt" i.e. 1st_day.txt, 2nd_day.txt, ...
+
+The file contains 3 lines:
+- day
+- quote
+- author
+
+## example 1st_day.txt
+`
+1
+bal bal
+Kent Beck
+`
