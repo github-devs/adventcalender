@@ -104,3 +104,8 @@ git checkout release/2020
 cp ../temp/* .
 ./git_actions
 ```
+
+## step8 
+The participants need to change all files to the YAML format in the `release/2021` branch. The changes should be cherry-picked from the `release/2020` branch.
+
+Ask the participant, why we are not able to merge the changes?
