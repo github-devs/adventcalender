@@ -1,0 +1,3 @@
+day: 20th Dec 2020
+quote: Composition: The act of combining parts or elements to form a whole.
+author: unknown
