@@ -1,3 +1,3 @@
-day: 23rd Dec
+day: 23rd Dec 2020
 quote: Names are deeply meaningful to your brain, and misleading names add chaos to your code.
 author: Andrew Hunt
