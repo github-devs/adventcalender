@@ -1,0 +1,3 @@
+21 Dec
+Don't document bad code - rewrite it.
+Brian Kernighan
