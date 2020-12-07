@@ -1,3 +1,0 @@
-23rd Dec
-Names are deeply meaningful to your brain, and misleading names add chaos to your code.
-Andrew Hunt
