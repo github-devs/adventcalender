@@ -1,4 +1,4 @@
-# adventcalender
+# Adventcalender Git Dojo
 
 
 ![Image logo](./adventcalender.jpg)
@@ -16,4 +16,4 @@ Our default workflow is
 * find a collegue to approve your PR
 * merge the PR into `release/2020` and delete the feature branch
 
-** Follow the instructions of your trainer and have some fun.**
+**Follow the instructions of your trainer and have some fun.**
