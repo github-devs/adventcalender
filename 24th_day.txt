@@ -1,3 +1,3 @@
-day: 24th Dec
+day: 24th Dec 2020
 quote: Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated.
 author: Edsger Dijkstra
