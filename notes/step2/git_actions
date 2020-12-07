@@ -1,7 +1,11 @@
 #!/bin/bash
 
 # git checkout trainer_notes
-cp notes/step2/* .
+# mkdir ../temp
+# cp notes/step2/* ../temp
+# git checkout release/2020
+# cp ../temp/* .
+
 git checkout -b step2_feature
 
 for f in *.txt
