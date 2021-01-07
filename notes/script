@@ -1,6 +1,10 @@
 #!/bin/bash
+git checkout -b step2_feature
 
-for f in *.txt;
+for f in *.txt
    do 
-     echo ${f};
+      git add ${f}
+      git commit -m "step 2 change (done by trainer) - bulk change for merge conflicts"
    done
+
+git push -u origin step2_feature
