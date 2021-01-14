@@ -26,9 +26,3 @@ git checkout releases/2020
 * Enter your commit message in the format `[Ticket ID]-[your description]` and select the "Commit and Push" button
 * Confirm the buttons in the dialog
 * Select on the project the pop menue: "Team > Switch To > releases/2020"
-
-| Heading 1 | Heading 2 | Rules |
-|-----------|-----------|-----------|
-| Noise     | Layouting | * Use Braces <\br> * Group with newline |
-| POLS      | Layout    | bla bla |
-
