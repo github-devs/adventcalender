@@ -29,7 +29,6 @@ git checkout releases/2020
 
 | Heading 1 | Heading 2 | Rules |
 |-----------|-----------|-----------|
-| Noise     | Layouting | * Use Braces |
-|           |  | * Group with newline |
+| Noise     | Layouting | * Use Braces <\br> * Group with newline |
 | POLS      | Layout    | bla bla |
 
